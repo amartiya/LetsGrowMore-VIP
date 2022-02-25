@@ -1,0 +1,28 @@
+#flex {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  background-color: #f7bfc9;
+}
+#btn {
+  padding: 10px;
+  background-color: #ff9cad;
+  border: none;
+  border-radius: 10px;
+}
+#layout {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px;
+  justify-content: center;
+}
+p {
+  text-align: center;
+}
+
+#subLayout {
+  margin: 20px 30px;
+}
+body {
+  background-color: #ffe8ec;
+}
